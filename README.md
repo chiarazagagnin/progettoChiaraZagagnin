@@ -8,4 +8,5 @@ Dal navigation drawer si può esplorare l'app, visualizzando gli album usciti di
 
 Dal navigation drawer si accede infatti anche alle varie pagine relative agli elementi preferiti.
 
-L'ultima sezione è dedicata al profilo dell'utente, il quale può caricare dei post relativi a musica e concerti, inserendo testo, tag, artista e l'url di un'immagine; è possibile inoltre vedere nella sezione community i post caricati dagli altri utenti dell'app.
+L'ultima sezione è dedicata al profilo dell'utente, il quale può caricare dei post relativi a musica e concerti, inserendo testo, tag, l'artista tramite un autocomplete e l'url di un'immagine; è possibile inoltre vedere nella sezione community i post caricati dagli altri utenti dell'app.
+Da ogni post è possibile accedere alla pagina relativa all'artista.
