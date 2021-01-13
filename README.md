@@ -1,4 +1,4 @@
-# progettoChiaraZagagnin
+# SoundsGreat
 Created with CodeSandbox
 SoundsGreat è una Web App relativa alla musica che prende i dati dagli API di Spotify. Dopo aver eseguito il login è possibile navigare nel sito.
 
